@@ -1,3 +1,3 @@
 # Exam-B-result
 My exam task, i received an B on this exam.
-The task was bigger, but we were two, and did two tasks each, so i uploaded the ones i did. This is done in JAVA. 
+I did task One and task Two, and my other partner in the exam did 3 and 4.
